@@ -1,5 +1,7 @@
 # Harvard Forest CO₂ Flux Analysis
 
+This is my college python class' projectd
+
 This project analyzes long-term CO₂ flux data from the Harvard Forest eddy flux tower. The goal is to understand how environmental conditions such as temperature, radiation, and wind affect CO₂ uptake and release in forest ecosystems.
 
 ## 🌲 Project Context
