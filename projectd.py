@@ -340,7 +340,7 @@ def averagecarbon(hf, modelest):
 
 
 
-if __name__ == "main":
+if __name__ == "__main__":
     filename = 'harvard_forest.csv'
     hf = readdata(filename)
     ndata,hfmean,hf25,hf75 = summarizedata(hf)
