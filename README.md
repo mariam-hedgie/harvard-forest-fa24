@@ -44,12 +44,11 @@ This repository includes:
 - `modelcomparison.png`: Model vs. data visualization
 - `avgflux.png`: Yearly average modeled flux
 
-## 💡 Key Insight
+## 💡 Note
 
 Negative CO₂ flux values indicate forest **carbon uptake** (sink), while positive values indicate **release** (source). This analysis highlights how seasonal and yearly climate patterns influence forest carbon dynamics.
 
-## 🧰 Technologies Used
+## 📚 Libraries Used
 
-- Python
 - NumPy
 - Matplotlib
