@@ -45,8 +45,8 @@ Forests play a critical role in regulating the global carbon cycle. This analysi
 ### 1. Clone this repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/YOUR-REPO-NAME.git
-cd YOUR-REPO-NAME
+git clone https://github.com/mariam-hedgie/harvard-forest-model.git
+cd harvard-forest-model
 ```
 
 ### 2. (Optional) Set up a virtual environment
