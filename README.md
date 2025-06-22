@@ -72,21 +72,6 @@ Make sure your CO₂ flux dataset (`HFdata.csv` or similar) is in the same folde
 
 ---
 
-## 🧪 Example Usage in Code
-
-```python
-import projectd
-
-hf = projectd.readdata('HFdata.csv')
-projectd.summarizedata(hf)
-projectd.missingdata(hf)
-projectd.seasonalcycle(hf)
-model = projectd.HFregression(hf)
-projectd.averagecarbon(hf, model)
-```
-
----
-
 ## 📊 Outputs
 
 This repository includes:
@@ -112,12 +97,3 @@ Negative CO₂ flux values indicate forest **carbon uptake** (sink), while posit
 
 ---
 
-## 👩‍💻 Author
-
-Built with ❤️ as part of a Python course project by [Dr. Mariam Husain](https://github.com/mariam-hedgie)
-
-
-## 📚 Libraries Used
-
-- NumPy
-- Matplotlib
